@@ -79,3 +79,7 @@ memory not bypassing relevance, bad upload types.
 ## Frontend
 The Frontend/ folder is the UI you asked for, created new in this project. Routes it calls:
 `GET /api/documents`, `POST /api/upload`, `POST /api/chat`.
+
+
+![Simple Chat RAG interface](Screenshot 2026-10-27 084700.png)
+
